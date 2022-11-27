@@ -98,4 +98,6 @@ Atmosphere Interface Pack: https://www.mixmods.com.br/2021/01/atmosphere-interfa
 
 Mobile Font Fixed: https://www.mixmods.com.br/2019/12/mobile-font-fixed-fonte-do-gta-sa-mobile-corrigida/
 
+Loadscreens 4K Definitive: https://www.mixmods.com.br/2021/12/loadscreens-4k-definitive-artworks-widescreen-hd/
+
 GTA SA HD Movies Folder: https://www.mixmods.com.br/2020/11/gta-sa-hd-movies-folder-intro-em-hd/
