@@ -84,7 +84,7 @@ Project2DFX: https://www.mixmods.com.br/2020/02/sa-project2dfx/
 
 Uncompressed SFX Pack: https://www.mixmods.com.br/2020/07/uncompressed-sfx-pack-sons-originais-em-hd/
 
-Rain Audio Fix: https://www.mixmods.com.br/2022/11/ladders-mod-subir-escadas/
+Rain Audio Fix: https://www.mixmods.com.br/2019/07/rain-audio-fix-novos-sons-para-chuva/
 
 Proper Weapons Retex: https://www.mixmods.com.br/2021/06/proper-weapons-retex-v1-3-armas-com-texturas-hd/
 
