@@ -1,40 +1,50 @@
-# GTA San Andreas Remastered v2
+# GTA San Andreas Mod List
 
-Juego Pa ponerle Mods: https://www.youtube.com/watch?v=Gadeg3KCqMo&t=42s
+## Low
 
-GInput: https://www.mixmods.com.br/2021/01/iii-vc-sa-ginput-melhor-suporte-para-controles/
+[GrinchTrainer](https://github.com/user-grinch/GrinchTrainer-III-VC-SA/releases)
 
-Cheat Menu by Grinch_ v3.2: https://www.mixmods.com.br/2022/03/cheat-menu-by-grinch/
+[GInput](https://www.mixmods.com.br/2021/01/iii-vc-sa-ginput-melhor-suporte-para-controles/)
 
-MODS
+[Proper Fixes](https://www.mixmods.com.br/2022/08/sa-proper-fixes/)
 
-RoSA Project Evolved: https://www.mixmods.com.br/2022/01/rosa-project-evolved-remaster-texturas-hd/
+[ModelExtras](https://github.com/user-grinch/ModelExtras/releases) (alternate IMVEHFT)
 
-Proper Fixes: https://www.mixmods.com.br/2022/08/sa-proper-fixes/
+[Original Peds Vary](https://www.mixmods.com.br/2021/03/original-peds-vary-peds-originais-variando-pedfuncs/) (don't mix with ROSA)
 
-Project Immerse-Yourself: https://www.mixmods.com.br/2022/01/project-immerse-yourself-prelight-melhorado/
+[Urbanize](https://www.mixmods.com.br/2025/07/urbanize/) (included Ped Learn & Ped Buy Food)
 
-CJ House Definitive Edition: https://www.mixmods.com.br/2021/11/cj-house-definitive-edition-casa-do-cj-convertida-do-sade/
+[PedFuncs](https://www.mixmods.com.br/2022/07/pedfuncs/)
 
-Improved and Fixed Original Vegetation: https://www.mixmods.com.br/2021/04/improved-and-fixed-original-vegetation-arvores-mais-redondas/
+[GraphicsTweaker](https://www.mixmods.com.br/2022/09/graphicstweaker/)
 
-Proper Vehicles Retex: https://www.mixmods.com.br/2022/04/sa-sade-proper-vehicles-retex/
+[Real Skybox](https://www.mixmods.com.br/2021/06/sa-real-skybox/)
+
+[Real Traffic Fix](https://www.mixmods.com.br/2022/04/real-traffic-fix/)
+
+
+## Medium
+
+[Proper Vehicles Retex](https://www.mixmods.com.br/2022/04/sa-sade-proper-vehicles-retex/)
 
 Revamped Vehicles Project: https://gtaforums.com/topic/981977-rvp-revamped-vehicles-project/
 
-ImVehFt: https://www.mixmods.com.br/2020/01/imvehft-improved-vehicle-features/
+[Proper Player Retex](https://www.mixmods.com.br/2022/04/proper-player-retex/)
 
-Proper Player Retex: https://www.mixmods.com.br/2022/04/proper-player-retex/
+[Proper Weapons Retex](https://www.mixmods.com.br/2021/06/proper-weapons-retex-v1-3-armas-com-texturas-hd/)
+
+[SkyGfx](https://www.mixmods.com.br/2022/07/sa-skygfx/)
+
+## High
+
+[RoSA Project Evolved](https://www.mixmods.com.br/2022/01/rosa-project-evolved-remaster-texturas-hd/) (included Proper Vehicle Retex, Player & Weapon)
 
 Personajes de cutscene con dedos separados: https://www.mixmods.com.br/2015/07/personagens-de-cutscene-com-dedos-separados-mobile/
 
 Cutscene Characters for gameplay: https://www.mixmods.com.br/2021/03/sa-cutscene-characters-for-gameplay-personagens-convertidos/
 
-Ped Spec Illumination (PC, Xbox, PS2 Settings): https://gamemodding.com/es/gta-san-andreas/graphic/76021-ped-spec-illumination-pc-xbox-ps2-settings.html
+## Unlisted, don't use these because i haven't edited yet
 
-Original Peds Vary: https://www.mixmods.com.br/2021/03/original-peds-vary-peds-originais-variando-pedfuncs/
-
-PedFuncs: https://www.mixmods.com.br/2022/07/pedfuncs/
 
 Ped Tweaks: https://www.mixmods.com.br/2021/09/sa-ped-tweaks-restaurar-policiais-e-pedestres/
 
@@ -48,7 +58,6 @@ Ladders Mod: https://www.mixmods.com.br/2022/11/ladders-mod-subir-escadas/
 
 CopsDriveBy: https://www.mixmods.com.br/2018/07/copsdriveby-policiais-atirando-do-carro/
 
-Real Traffic Fix: https://www.mixmods.com.br/2022/04/real-traffic-fix/
 
 Trucks & Trailers: https://www.mixmods.com.br/2016/07/trucks-trailers-reboques-avioes-etc/
 
@@ -56,7 +65,6 @@ Clever Trams: https://www.mixmods.com.br/2020/01/clever-trams-bondes-mais-inteli
 
 Homeless and Trash Bags: https://www.mixmods.com.br/2020/05/homeless-and-trash-bags-mendigos-mexendo-em-sacos-de-lixo/
 
-Peds Buy Food: https://www.mixmods.com.br/2020/07/peds-buy-food-pedestres-compram-comida/
 
 Ambient Taxi: https://www.mixmods.com.br/2017/12/ambient-taxi-taxi-pegando-passageiros/
 
@@ -66,11 +74,6 @@ Faster Clothes Changes: https://www.mixmods.com.br/2020/08/faster-clothes-change
 
 GPS Line Mod: https://www.mixmods.com.br/2022/02/iii-vc-sa-gps-line-mod-radar-minimap/
 
-SkyGfx: https://www.mixmods.com.br/2022/07/sa-skygfx/
-
-GraphicsTweaker: https://www.mixmods.com.br/2022/09/graphicstweaker/
-
-Real Skybox: https://www.mixmods.com.br/2021/06/sa-real-skybox/
 
 Thunder Mod: https://www.mixmods.com.br/2022/07/thunder-mod-cleo/
 
@@ -86,13 +89,12 @@ Uncompressed SFX Pack: https://www.mixmods.com.br/2020/07/uncompressed-sfx-pack-
 
 Rain Audio Fix: https://www.mixmods.com.br/2019/07/rain-audio-fix-novos-sons-para-chuva/
 
-Proper Weapons Retex: https://www.mixmods.com.br/2021/06/proper-weapons-retex-v1-3-armas-com-texturas-hd/
+
 
 Íconos de armas de nadalao: https://www.mixmods.com.br/2022/02/icones-de-armas-fieis-desenhos-corrigidos/
 
 Iconos de armas TXD: https://www.mixmods.com.br/2022/02/sa-weapon-icons-txd/
 
-Proper Radar: https://www.mixmods.com.br/2022/07/proper-radar/
 
 Atmosphere Interface Pack: https://www.mixmods.com.br/2021/01/atmosphere-interface-pack-interface-hd/
 
