@@ -44,6 +44,8 @@ NO ENB & NO PAID MOD LIKE BODYKIT OVERKILL CAR THAT COST $7 MORE, everything sam
 
 [Uncompressed SFX Pack](https://www.mixmods.com.br/2020/07/uncompressed-sfx-pack-sons-originais-em-hd/)
 
+[RZL Trainer](https://libertycity.net/user/muhammad_herizal/)
+
 ## Visual
 
 [Real Linear Graphics](https://www.mixmods.com.br/2022/07/real-linear-graphics/)
@@ -56,9 +58,16 @@ NO ENB & NO PAID MOD LIKE BODYKIT OVERKILL CAR THAT COST $7 MORE, everything sam
 
 [Project2DFX](https://www.mixmods.com.br/2020/02/sa-project2dfx/)
 
-## Retexture (friendly)
+[Enhanced Classic Graphics](https://www.mixmods.com.br/2019/10/ecg-enhanced-classic-graphics/)
 
-[Original Peds Vary](https://www.mixmods.com.br/2021/03/original-peds-vary-peds-originais-variando-pedfuncs/) (don't mix with ROSA)
+[Enhance ParticleTXD](https://www.mixmods.com.br/2016/03/enhance-particletxd/)
+
+## Retexture
+Choose base on your PC specs
+
+### Friendly
+
+[Original Peds Vary](https://www.mixmods.com.br/2021/03/original-peds-vary-peds-originais-variando-pedfuncs/)
 
 [Proper Player Retex](https://www.mixmods.com.br/2022/04/proper-player-retex/)
 
@@ -66,6 +75,6 @@ NO ENB & NO PAID MOD LIKE BODYKIT OVERKILL CAR THAT COST $7 MORE, everything sam
 
 [Proper Vehicles Retex](https://www.mixmods.com.br/2022/04/sa-sade-proper-vehicles-retex/)
 
-## Retexture (high end)
+### High End
 
-[RoSA Project Evolved](https://www.mixmods.com.br/2022/01/rosa-project-evolved-remaster-texturas-hd/) (included Proper Vehicle Retex, Player & Weapon)
+[RoSA Project Evolved](https://www.mixmods.com.br/2022/01/rosa-project-evolved-remaster-texturas-hd/) (included Proper Vehicle Retex, Player & Weapon) *set StreamMemoryForced to 1408 in ImprovedStreaming.ini
